@@ -34,7 +34,7 @@ function Popular(params) {
                     <p>449 <del>999</del> </p>
                 </div>
                 <div className="course-card">
-                    <img src={c1} />
+                    <img src={c1} alt="card" />
                     <h3>2023 Python Data Visaulisation Materclass</h3>
                     <p>Col Steele</p>
                     <p>4.9⭐⭐⭐⭐ </p>
