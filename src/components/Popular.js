@@ -11,7 +11,7 @@ function Popular(params) {
             <div className="popular__container">
 
                 <div className="course-card">
-                    <img src={c4} />
+                    <img src={c4} alt="card" />
                     <h3> Basic to Advance Java Core Training </h3>
                     <p>Col Steele</p>
                     <p>4.8⭐⭐⭐⭐</p>
@@ -19,7 +19,7 @@ function Popular(params) {
                 </div>
 
                 <div className="course-card">
-                    <img src={c3} />
+                    <img src={c3} alt="card" />
                     <h3> Master UI/UX Designing With Figma </h3>
                     <p>Col Steele</p>
                     <p>4.8⭐⭐⭐⭐</p>
@@ -27,7 +27,7 @@ function Popular(params) {
                 </div>
 
                 <div className="course-card">
-                    <img src={c1} />
+                    <img src={c2} alt="card" />
                     <h3>2023 Python Data Visaulisation Materclass</h3>
                     <p>Col Steele</p>
                     <p>4.9⭐⭐⭐⭐ </p>
@@ -42,7 +42,7 @@ function Popular(params) {
                 </div>
 
                 <div className="course-card">
-                    <img src={c4} />
+                    <img src={c4} alt="card" />
                     <h3> Basic to Advance Java Core Training </h3>
                     <p>Col Steele</p>
                     <p>4.8⭐⭐⭐⭐</p>
@@ -50,7 +50,7 @@ function Popular(params) {
                 </div>
 
                 <div className="course-card">
-                    <img src={c3} />
+                    <img src={c3} alt="card" />
                     <h3> Master UI/UX Designing With Figma </h3>
                     <p>Col Steele</p>
                     <p>4.8⭐⭐⭐⭐</p>
@@ -58,14 +58,14 @@ function Popular(params) {
                 </div>
 
                 <div className="course-card">
-                    <img src={c1} />
+                    <img src={c2} alt="card"/>
                     <h3>2023 Python Data Visaulisation Materclass</h3>
                     <p>Col Steele</p>
                     <p>4.9⭐⭐⭐⭐ </p>
                     <p>449 <del>999</del> </p>
                 </div>
                 <div class="course-card">
-                    <img src={c1} />
+                    <img src={c1} alt="card" />
                     <h3>2023 Python Data Visaulisation Materclass</h3>
                     <p>Col Steele</p>
                     <p>4.9⭐⭐⭐⭐ </p>
