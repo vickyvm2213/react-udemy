@@ -10,7 +10,7 @@ function Recommended(params) {
         <p className=" recommended__one">Pick the best fit</p>
         <div className="recommended__container">
             <div className="course-card">
-                <img src={c1}/>
+                <img src={c1} alt="course"/>
                 <h3>2023 Python Data Visaulisation Materclass</h3>
                 <p>Col Steele</p>
                 <p>4.9⭐⭐⭐⭐ </p>
@@ -18,21 +18,21 @@ function Recommended(params) {
             </div>
 
             <div className="course-card">
-                <img src={c2}/>
+                <img src={c2} alt="course"/>
                 <h3>Web Development Bootcamp 2023 | Advance</h3>
                 <p>Col Steele</p>
                 <p>3.2⭐⭐⭐</p>
                 <p>499 <del>999</del></p>
             </div>
             <div className="course-card">
-                <img src={c3}/>
+                <img src={c3} alt="course"/>
                 <h3> Master UI/UX Designing With Figma </h3>
                 <p>Col Steele</p>
                 <p>4.8⭐⭐⭐⭐</p>
                 <p>449 <del>999</del></p>
             </div>
             <div className="course-card">
-                <img src={c4}/>
+                <img src={c4} alt="course"/>
                 <h3> Basic to Advance Java Core Training </h3>
                 <p>Col Steele</p>
                 <p>4.8⭐⭐⭐⭐</p>
