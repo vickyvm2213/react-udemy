@@ -4,7 +4,7 @@ function Sale(params) {
 
     return(
 
-        <div className="sale">
+        <div className="sale-image">
         <img src={one} alt="Sale"/>
         <div className="sale-image__offer">
             <h2>Udamy Flash Sale! 24 hours to save.</h2>
